@@ -16,6 +16,5 @@ I'm Taner Kocak. I am 22 years old. I live in Istanbul. I completed my high scho
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/TanerKocak193)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=maresall&icon=3&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
