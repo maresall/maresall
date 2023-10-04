@@ -11,10 +11,3 @@ I'm Taner Kocak. I am 22 years old. I live in Istanbul. I completed my high scho
 ![](https://github-readme-stats.vercel.app/api?username=maresall&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maresall&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maresall&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/TanerKocak193)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
